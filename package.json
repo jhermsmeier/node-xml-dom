@@ -1,0 +1,26 @@
+{
+  "name": "xml-dom",
+  "version": "0.0.0",
+  "description": "XML DOM",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
+  "keywords": [
+    "xml",
+    "dom",
+    "document"
+  ],
+  "main": "lib/index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "htmlparser2": "^3.10.1"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-xml-dom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-xml-dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-xml-dom/issues"
+  }
+}
